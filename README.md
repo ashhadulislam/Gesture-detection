@@ -1,7 +1,7 @@
 
 # Gesture Detector - Automated feedback system based on Gesture
 
-
+Slides for the session are available [here](https://docs.google.com/presentation/d/1EKUK15o-_vl9FEYD4g2ooXN_IGBMjKF4-ZRRl4SyjSI/edit?usp=sharing)
 
 This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
 
