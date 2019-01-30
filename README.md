@@ -26,6 +26,15 @@ Slides for the session are available [here](https://docs.google.com/presentation
 $ pip install virtualenv
 ```
 
+On raspberry pi, run this instead
+
+```sh
+$ sudo /usr/bin/easy_install virtualenv
+```
+
+
+
+
 
 2) Create a virtualenvironment
 
