@@ -48,6 +48,14 @@ $ virtualenv -p python3 venv3
 $ source venv3/bin/activate
 ```
 
+4) For cv to work on raspberry pi, need to run the following commands
+
+```sh
+sudo apt-get install libatlas-base-dev
+sudo apt-get install libjasper-dev
+sudo apt-get install libqtgui4
+sudo apt-get install python3-pyqt5
+```
 
 # Exercise 1:
 
