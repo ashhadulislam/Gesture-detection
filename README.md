@@ -87,16 +87,18 @@ Here we will try and use a trained model to see how well our gestures are being 
 This model supports 3 gestures.
 
 Gesture#1
-Index finger up (Insert image here)
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+Index finger up
+![1](https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/0.png)
 
 
 Gesture#2
-Sign of the horns(Insert image here)
+Sign of the horns
+![2](https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/1.png)
 
 
 Gesture#3
-Three fingers up (Insert image here)
+Three fingers up 
+![2](https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/2.png)
 
 1) make sure you are inside the folder exercise4
 
@@ -111,6 +113,10 @@ $ python
 ```
 
 3) Start executing the model
+
+```sh
+>>> import Video_Handler
+```
 
 
 ```sh
