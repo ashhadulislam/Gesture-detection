@@ -100,7 +100,7 @@ This project tries to understand user feedback from the gestures he/she shows wi
 1) make sure you are inside the folder exercise4
 
 ```sh
-$ cd Gesture-detection
+$ cd exercise4
 ```
 
 
