@@ -88,7 +88,7 @@ This model supports 3 gestures.
 
 Gesture#1
 Index finger up (Insert image here)
-![alt text](https://drive.google.com/open?id=14iXSCZpENmoWnXYc7HD3PjE-BFjYJm39)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
 
 Gesture#2
