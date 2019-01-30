@@ -11,7 +11,7 @@ Jan 31st, DAH2, India
 ## Presentation:
 Slides for the session are available [here](https://docs.google.com/presentation/d/1EKUK15o-_vl9FEYD4g2ooXN_IGBMjKF4-ZRRl4SyjSI/edit?usp=sharing)
 
-This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
+
 
 
 
@@ -49,8 +49,8 @@ This beginner exercise will get you familiar with using Opencv framework
 
 1) make sure you are inside the folder exercise1
 
-```python
-$python image_read_write.py
+```sh
+$ python image_read_write.py
 ```
 
 # Exercise 2:
@@ -62,8 +62,8 @@ Here we will learn to read a live feed from the camera. We will also process fra
 
 1) make sure you are inside the folder exercise2
 
-```python
-$python camera_capture.py
+```sh
+$ python camera_capture.py
 ```
 
 # Exercise 3:
@@ -75,8 +75,8 @@ Here we will use pre trained classifiers for face and eye detection on user defi
 
 1) make sure you are inside the folder exercise3
 
-```python
-$python face_detect.py
+```sh
+$ python face_detect.py
 ```
 ## Gesture Detector - Automated feedback system based on Gesture
 
@@ -88,6 +88,8 @@ This model supports 3 gestures.
 
 Gesture#1
 Index finger up (Insert image here)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+
 
 Gesture#2
 Sign of the horns(Insert image here)
@@ -123,6 +125,8 @@ $ python
 
 
 ## Gesture Detector - Automated feedback system based on Gesture
+
+This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
 
 ### Description
 This project tries to understand user feedback from the gestures he/she shows with her hands. Feel free to train the model on your favorite hand gestures and see if it can detect the same later on when your friends make the same gestures.
