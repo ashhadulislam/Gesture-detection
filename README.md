@@ -97,17 +97,17 @@ This model supports 3 gestures.
 
 Gesture#1
 Index finger up
-![1](https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/0.png  = 250x)
+<img src="https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/0.png" width="48">
 
 
 Gesture#2
 Sign of the horns
-![2](https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/1.png = 300x)
+<img src="https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/1.png" width="48">
 
 
 Gesture#3
 Three fingers up 
-![2](https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/2.png = 350x)
+<img src="https://github.com/ashhadulislam/TechDesignForumJan2019/blob/master/exercise4/hand_emo/2.png" width="48">
 
 1) make sure you are inside the folder exercise4
 
