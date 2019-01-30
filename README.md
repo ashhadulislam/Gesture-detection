@@ -1,27 +1,24 @@
 
-# Gesture Detector - Automated feedback system based on Gesture
+# Tech Design Forum 2019
 
+Jan 31st, DAH2, India
+
+
+![Speakers](dev_pros.png?raw=true "Speakers")
+
+
+
+## Presentation:
 Slides for the session are available [here](https://docs.google.com/presentation/d/1EKUK15o-_vl9FEYD4g2ooXN_IGBMjKF4-ZRRl4SyjSI/edit?usp=sharing)
 
 This code helps you to recognize and classify different emojis. As of now, we are only supporting hand emojis.
 
 
 
-### Description
-This project tries to understand user feedback from the gestures he/she shows with her hands. Feel free to train the model on your favorite hand gestures and see if it can detect the same later on when your friends make the same gestures.
-
-### Functionalities
-1) Filters to detect hand.
-2) CNN for training the model.
-
-
-### Python  Implementation
-
-1) Network Used- Convolutional Neural Network
 
 
 
-### Procedure
+## Setup your environment
 
 1) Install virtual environment with the following command
 
@@ -43,14 +40,71 @@ $ source venv3/bin/activate
 ```
 
 
-4) make sure you are inside the project location, that is inside the folder Gesture-detection
+# Exercise 1:
+
+## Reading and writing images
+
+### Description
+This beginner exercise will get you familiar with using Opencv framework
+
+1) make sure you are inside the folder exercise1
+
+```python
+$python image_read_write.py
+```
+
+# Exercise 2:
+
+## Capture camera feed and process frames
+
+### Description
+Here we will learn to read a live feed from the camera. We will also process frames one by one.
+
+1) make sure you are inside the folder exercise2
+
+```python
+$python camera_capture.py
+```
+
+# Exercise 3:
+
+## Face detection
+
+### Description
+Here we will use pre trained classifiers for face and eye detection on user defined image.
+
+1) make sure you are inside the folder exercise3
+
+```python
+$python face_detect.py
+```
+
+# Exercise 4:
+
+
+## Gesture Detector - Automated feedback system based on Gesture
+
+### Description
+This project tries to understand user feedback from the gestures he/she shows with her hands. Feel free to train the model on your favorite hand gestures and see if it can detect the same later on when your friends make the same gestures.
+
+### Functionalities
+1) Filters to detect hand.
+2) CNN for training the model.
+
+
+### Python  Implementation
+
+1) Network Used- Convolutional Neural Network
+
+
+1) make sure you are inside the folder exercise4
 
 ```sh
 $ cd Gesture-detection
 ```
 
 
-5) Now install the dependencies from requirements.txt
+2) Now install the dependencies from requirements.txt
 Try,
 
 ```sh
@@ -61,7 +115,7 @@ $ pip install -r requirements.txt
 
 If you face issues installing, consult us
 
-6) Now open a python terminal 
+3) Now open a python terminal 
 
 ```sh
 $ python
@@ -70,7 +124,7 @@ $ python
 
 
 
-7) Execute the following commands in python terminal
+4) Execute the following commands in python terminal
 
 ```sh
 >>> import Video_Handler
