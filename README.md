@@ -78,8 +78,53 @@ Here we will use pre trained classifiers for face and eye detection on user defi
 ```python
 $python face_detect.py
 ```
+## Gesture Detector - Automated feedback system based on Gesture
 
 # Exercise 4:
+
+### Description
+Here we will try and use a trained model to see how well our gestures are being recognized.
+This model supports 3 gestures.
+
+Gesture#1
+Index finger up (Insert image here)
+
+Gesture#2
+Sign of the horns(Insert image here)
+
+
+Gesture#3
+Three fingers up (Insert image here)
+
+1) make sure you are inside the folder exercise4
+
+```sh
+$ cd exercise4
+```
+
+2) Now open a python terminal 
+
+```sh
+$ python
+```
+
+3) Start executing the model
+
+
+```sh
+$ python
+```
+
+
+```sh
+>>> Video_Handler.start_gesture_recognition()
+```
+
+
+
+
+
+# Exercise 5:
 
 
 ## Gesture Detector - Automated feedback system based on Gesture
