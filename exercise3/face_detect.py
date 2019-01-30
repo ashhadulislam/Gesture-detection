@@ -10,8 +10,8 @@ print(type(data))
 
 
 ### Face detect
-path_to_face_classfier = r"C:\Users\SAM\Anaconda3\Lib\site-packages\cv2\data\haarcascade_frontalface_default."
-path_to_eye_classifier = r"C:\Users\SAM\Anaconda3\Lib\site-packages\cv2\data\haarcascade_eye.xml"
+path_to_face_classfier = "haarcascade_frontalface_default.xml"
+path_to_eye_classifier = "haarcascade_eye.xml"
 # Create the haar cascadeforface and eye
 face_cascade = cv2.CascadeClassifier(path_to_face_classfier)
 eye_cascade = cv2.CascadeClassifier(path_to_eye_classifier)
