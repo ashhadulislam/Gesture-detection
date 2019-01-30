@@ -112,11 +112,6 @@ $ python
 
 
 ```sh
-$ python
-```
-
-
-```sh
 >>> Video_Handler.start_gesture_recognition()
 ```
 
